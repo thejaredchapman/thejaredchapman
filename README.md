@@ -2,7 +2,7 @@
 - 👀 Currently learning at Google as a Software Engineer Apprentice. 
 - 🌱 I'm pretty excited to learn, contribute and commit. 
 - 💞️ Hope you're having a nice day.
-- 📫 How to reach me email me at thejaredchapman@gmail.com or Twitter @thejaredchapman
+- 📫 How to reach me email me at thejaredchapman@gmail.com or LinkedIn https://www.linkedin.com/in/thejaredchapman/
 
 <!---
 thejaredchapman/thejaredchapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
