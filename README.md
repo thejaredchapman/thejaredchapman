@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thejaredchapman
-- 👀 Currently learning at Google as a Software Engineer, building projects in Python & Java. 
+- 👀 Currently learning from Software Engineer Apprentice at Google, building projects in Python & Java. 
 - 🌱 I'm pretty excited to learn, contribute and commit. 
 - 💞️ Hope you're having a nice day.
 - 📫 How to reach me email me at thejaredchapman@gmail.com or LinkedIn https://www.linkedin.com/in/thejaredchapman/
