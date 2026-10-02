@@ -1,3 +1,5 @@
+<img src="assets/jared.jpg" alt="Jared Chapman in a green suit with a dog" width="200" align="right">
+
 # Hey, I'm Jared 👋🏿
 
 **Developer Education & AI Enablement Engineer** · Los Angeles · Atlanta native · Former Google
@@ -5,7 +7,7 @@
 I'm an engineer who teaches. I build LLM tools and agent workflows, then turn them
 into hands-on labs, clear docs, and working demos that help teams get real value from AI.
 
-🌐 **[jaredchapman.com](www.thejaredchapman.com)** a macOS-style desktop you can poke around in
+🌐 **[thejaredchapman.com](https://www.thejaredchapman.com)** a macOS-style desktop you can poke around in
 
 ## What I'm working on
 - 🧪 **[Evalforge Lite](https://evalforge-lite.onrender.com/)**: open source. Compare AI models side by side
