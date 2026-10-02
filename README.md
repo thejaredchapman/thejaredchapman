@@ -21,7 +21,7 @@ into hands-on labs, clear docs, and working demos that help teams get real value
 - Open-source contributions to Google's BigQuery DataFrames and Ibis
 
 ## Things I make for developers
-[Claude Code Guide](https://github.com/thejaredchapman/claude-code-guide) ·
+[AI-Coding-Assistant-Guides](https://github.com/thejaredchapman/claude-code-guide) ·
 [Claude Code Updates](https://github.com/thejaredchapman/claude-code-updates) ·
 [4D Orchestrator MCP](https://github.com/thejaredchapman/4d-orchestrator-mcp) ·
 [Docs RAG](https://github.com/thejaredchapman/docs-rag) ·
