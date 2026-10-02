@@ -5,7 +5,7 @@
 I'm an engineer who teaches. I build LLM tools and agent workflows, then turn them
 into hands-on labs, clear docs, and working demos that help teams get real value from AI.
 
-🌐 **[jaredchapman.com]** a macOS-style desktop you can poke around in
+🌐 **[jaredchapman.com](www.thejaredchapman.com)** a macOS-style desktop you can poke around in
 
 ## What I'm working on
 - 🧪 **[Evalforge Lite](https://evalforge-lite.onrender.com/)**: open source. Compare AI models side by side
