@@ -22,7 +22,8 @@ into hands-on labs, clear docs, and working demos that help teams get real value
 
 ## Things I make for developers
 [AI-Coding-Assistant-Guide](https://github.com/thejaredchapman/claude-code-guide) ·
-[Claude Code Updates](https://github.com/thejaredchapman/claude-code-updates) ·
+[Claude Code Usage Guard](https://github.com/thejaredchapman/claude-code-usage-guard) ·
+[AI-Explorer](https://ai-explorer-theta.vercel.app) ·
 [4D Orchestrator MCP](https://github.com/thejaredchapman/4d-orchestrator-mcp) ·
 [Docs RAG](https://github.com/thejaredchapman/docs-rag) ·
 [Spotify Direct MCP](https://github.com/thejaredchapman/spotify-direct-mcp)
