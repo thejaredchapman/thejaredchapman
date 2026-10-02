@@ -21,9 +21,9 @@ into hands-on labs, clear docs, and working demos that help teams get real value
 - Open-source contributions to Google's BigQuery DataFrames and Ibis
 
 ## Things I make for developers
-[AI-Coding-Assistant-Guide](https://github.com/thejaredchapman/claude-code-guide) ·
-[Claude Code Usage Guard](https://github.com/thejaredchapman/claude-code-usage-guard) ·
+[AI-Coding-Assistant-Guide](https://vercel.com/thejaredchapmans-projects/ai-coding-assistants-guide) ·
 [AI-Explorer](https://ai-explorer-theta.vercel.app) ·
+[Claude Code Usage Guard](https://github.com/thejaredchapman/claude-code-usage-guard) ·
 [4D Orchestrator MCP](https://github.com/thejaredchapman/4d-orchestrator-mcp) ·
 [Docs RAG](https://github.com/thejaredchapman/docs-rag) ·
 [Spotify Direct MCP](https://github.com/thejaredchapman/spotify-direct-mcp)
